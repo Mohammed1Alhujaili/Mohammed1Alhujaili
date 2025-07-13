@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Resume Parser using AI](https://colab.research.google.com/drive/1CLde-_xnY_LXGLYgEVmiUkbsNR_6Abuf)
 
-- 🌱 I’m currently learning **NLP,LangChain,Docker**
+- 🌱 I’m currently learning **NLP, LangChain, Docker**
 
 - 👯 I’m looking to collaborate on **AI projects, ML pipelines, and datasets**
 
