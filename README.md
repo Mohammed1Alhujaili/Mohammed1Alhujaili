@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mohammed1alhujaili.github.io/portfolio](https://mohammed1alhujaili.github.io/portfolio)
 
-- 📝 I regularly write articles on [LinkedIn, GitHub Discussions](LinkedIn, GitHub Discussions)
+- 📝 I regularly write articles on [LinkedIn, GitHub Discussions]
 
 - 💬 Ask me about **AI, Machine Learning, Computer Vision**
 
